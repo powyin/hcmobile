@@ -1,0 +1,10 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "ios_entry":"YDMTest222",
+  "android_entry":"com.simple.plugin.SimpleAndroidPluginNativiePart",
+  "methods":[
+    "ojk",
+    "dialog"
+  ]
+}
